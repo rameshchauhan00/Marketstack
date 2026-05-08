@@ -2,7 +2,7 @@
 
 Financial platforms depend on real time market data to deliver better insights and faster decisions. A powerful **stock market api** helps developers access live stock information, historical trends, market indices, and trading activity without building complex infrastructure from scratch.
 
-[**Marketstack**]provides market data in a simple REST API format that works smoothly for trading apps, portfolio trackers, analytics platforms, and fintech products. Developers can integrate market data into websites and applications with minimal setup while maintaining strong performance and scalability.
+**Marketstack**provides market data in a simple REST API format that works smoothly for trading apps, portfolio trackers, analytics platforms, and fintech products. Developers can integrate market data into websites and applications with minimal setup while maintaining strong performance and scalability.
 
 Modern investment platforms require continuous data flow to keep users informed about market movement. Access to accurate market information improves user experience and supports better financial analysis. From startups to enterprise level fintech companies, APIs have become an essential part of building financial products that users trust.
 
@@ -14,5 +14,5 @@ Marketstack helps developers simplify integration by offering easy access to sto
 
 Fast response time and clean documentation are important when integrating financial APIs into production systems. A flexible API solution helps developers save development time while maintaining stable performance for growing applications. Whether the goal is tracking portfolio performance or powering advanced analytics tools, reliable stock data plays a major role in delivering value to users.
 
-Explore real time market data solutions with Marketstack and build smarter financial applications with ease:- **https://marketstack.com/**[https://marketstack.com/](url) 
+Explore real time market data solutions with Marketstack and build smarter financial applications with ease:- **https://marketstack.com/** 
 
