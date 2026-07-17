@@ -2,7 +2,7 @@
 
 Financial platforms depend on real time market data to deliver better insights and faster decisions. A powerful **stock market api** helps developers access live stock information, historical trends, market indices, and trading activity without building complex infrastructure from scratch.
 
-**Marketstack**provides market data in a simple REST API format that works smoothly for trading apps, portfolio trackers, analytics platforms, and fintech products. Developers can integrate market data into websites and applications with minimal setup while maintaining strong performance and scalability.
+**Marketstack** provides market data in a simple REST API format that works smoothly for trading apps, portfolio trackers, analytics platforms, and fintech products. Developers can integrate market data into websites and applications with minimal setup while maintaining strong performance and scalability.
 
 Modern investment platforms require continuous data flow to keep users informed about market movement. Access to accurate market information improves user experience and supports better financial analysis. From startups to enterprise level fintech companies, APIs have become an essential part of building financial products that users trust.
 
